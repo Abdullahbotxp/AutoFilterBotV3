@@ -30,6 +30,11 @@
 </a>
 
 
+#### Deploy To Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/wzO9Lx?referralCode=CL0DIH)
+
+
 #### Hard Way
 ```bash
 # Create virtual environment
